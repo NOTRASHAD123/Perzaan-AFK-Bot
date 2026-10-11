@@ -8,7 +8,7 @@
   "server": {
     "ip": "NotRashad.aternos.me",
     "port":  60049,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
