@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "online"
+    "type": ""
   },
   "server": {
     "ip": "NotRashad.aternos.me",
     "port":  60049,
-    "version": "1.21.1"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
